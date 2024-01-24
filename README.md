@@ -4,13 +4,13 @@ React Native Project
 
 # Feature
 
-.Splach screen
+.Splash screen
 
-.Learn tutotoals
+.Learn tutorials
 
 .Learn Exercise
 
-.Guitar samulator
+.Guitar simulator
 
 .Tune recording
 
